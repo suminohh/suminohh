@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumin!
-- 👀 I have a background in graphic and hardware design.
+- 👀 I have a background in graphic design and industrial design.
 - 🌱 I’m currently learning data analytics tools like Google Analytics and Mixpanel.
 - 📫 You can reach me on LinkedIn or Twitter! 
 - LinkedIn: https://www.linkedin.com/in/suminoh/4
