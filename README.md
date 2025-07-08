@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumin!
-- 👀 I have a background in graphic design and industrial design.
-- 🌱 I’m currently learning data analytics and specializing in demand forecasting.
+- 👀 I have a background in industrial design.
+- 🌱 I started working as an analyst and transitioned into product management.
 - 📫 You can reach me on LinkedIn or Twitter!
 - Twitter: https://twitter.com/suminohh
 - LinkedIn: https://www.linkedin.com/in/suminoh/
