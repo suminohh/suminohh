@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumin!
 - 👀 I have a background in industrial design.
-- 🌱 I started working as an analyst and transitioned into product management.
+- 🌱 I'm in product management building server-to-server (postback) tracking software.
 - 📫 You can reach me on LinkedIn!
 - LinkedIn: https://www.linkedin.com/in/suminoh/
 
