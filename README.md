@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumin!
 - 👀 I have a background in industrial design.
-- 🌱 I'm in product management building server-to-server (postback) tracking software.
+- 🌱 I'm in product management building server-to-server (postback) attribution tracking software.
 - 📫 You can reach me on LinkedIn!
 - LinkedIn: https://www.linkedin.com/in/suminoh/
 
